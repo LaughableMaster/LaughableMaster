@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LaughableMaster aka nvgowtham
+- 👋 Hi, I’m @LaughableMaster (aka) nvgowtham
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently pursuing Masters in Business Administration 
 - 💞️ I’m looking to collaborate on open projects in data science, analytics and operations domain.
